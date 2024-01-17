@@ -10,7 +10,7 @@ A repository for my graduation thesis, built to store codes and other important 
 
 - **Block relocation problem（BRP，or container relocation problem），是为了找到一个最佳的操作顺序来按照给定的顺序从集装箱堆场取出block。问题的数学本质是组合优化问题，从精确解的时间复杂度分析属于NP-hard问题。**
 
-  ![background.1](C:\Users\xiang\Downloads\background.1.jpg)
+  ![background.1](background.1.jpg)
 
 - 如图所示，需要先取1号，再取2号，以此类推到全部取出。如果要把1号取出来，就先要把5号挪走。这时可以把5挪到2的上面（很笨的办法，因为等会挪2还要再挪一次5），或者6的上面（比较好的方法，因为5，6，10按顺序排列，后面不会出现盖住的问题），所以必然有一个优化的挪箱子的步骤，可以最小化挪动箱子的数量。
 
