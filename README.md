@@ -1,5 +1,5 @@
-# 基于对比学习的容器调度优化研究
-# Optimizing Container Scheduling using Contrastive Learning
+# 基于特征融合的容器调度优化研究
+# Optimizing Container Scheduling based on Feature Fusion
 
 > to be constructed
 
@@ -27,11 +27,3 @@ A repository for my graduation thesis, built to store codes and other important 
   （5）精确解是多项式时间不可解的，所以急需一个基于AI的特征抽取器，能够抽取这样问题的特征来寻求最优解。
 
 - 本研究针对有限制异优先级BRP问题，基于对比学习和强化学习快速得到近似解。
-
-## Exact Algorithm
-- to be constructed
-
-
-## Contrastive Learning
-
-- to be constructed
